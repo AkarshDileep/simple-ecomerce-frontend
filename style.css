@@ -1,0 +1,16 @@
+.body{
+    background-color: #1B4242;
+}
+.navbarr{
+    background-color: #092635;
+    color: #fff;
+    z-index: 3;
+    position: fixed;
+    height: 100px;
+    width: 100%;
+}
+.product{
+    corner-radius: 50px;
+    box-shadow: 0 0 10px rgba(87, 86, 86, 0.5);
+    background-color: #1B4242;
+}
